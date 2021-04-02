@@ -134,5 +134,5 @@
   "Changelogs" : "Whats New?\nBrand New Easy User Interface\Redknight Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
   "Notice" : "Welcome Redknight V2Ray Reloaded\n\n1. Online Update on menu\n2. Select Location\n3. Select Network/Payload\n4. Enter Username and Password\n5. Click CONNECT",
   "UpdateUrl": "https://raw.githubusercontent.com/tcfelisildajr69/no-load-for-all/main/update.json",
-  "Version" : 4
+  "Version" : 5
 }
