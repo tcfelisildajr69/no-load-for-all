@@ -1,4 +1,138 @@
-vmess://eyJhZGQiOiJzaG9wLmdsb2JlLmNvbS5waCIsImFpZCI6IjY0IiwiaG9zdCI6InZpcDEucmVka25pZ2h0LXdlYi50ayIsImlkIjoiYzUwYzE3Y2QtODk0OC00NzlkLWRhMmMtYjM4ZmYwMGU0ZGVhICIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJHVE0gTk9MT0FEIDEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJzaG9wLmdsb2JlLmNvbS5waCIsImFpZCI6IjY0IiwiaG9zdCI6InZpcDIucmVka25pZ2h0LXdlYi50ayIsImlkIjoiYzUwYzE3Y2QtODk0OC00NzlkLWRhMmMtYjM4ZmYwMGU0ZGVhICIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJHVE0gTk9MT0FEIDIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJzaG9wLmdsb2JlLmNvbS5waCIsImFpZCI6IjY0IiwiaG9zdCI6InZpcDMucmVka25pZ2h0LXdlYi50ayIsImlkIjoiYzUwYzE3Y2QtODk0OC00NzlkLWRhMmMtYjM4ZmYwMGU0ZGVhICIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJHVE0gTk9MT0FEIDMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJzaG9wLmdsb2JlLmNvbS5waCIsImFpZCI6IjY0IiwiaG9zdCI6InZpcDQucmVka25pZ2h0LXdlYi50ayIsImlkIjoiYzUwYzE3Y2QtODk0OC00NzlkLWRhMmMtYjM4ZmYwMGU0ZGVhICIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJHVE0gTk9MT0FEIDQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+{
+  "Servers" : [ {
+    "Category" : 0,
+    "DomainOrIP" : "prem1.redknight-web.tk",
+    "Flag" : "sg",
+    "Name" : "Premium Singapore 1",
+    "AlterID" : "64",
+    "Port" : "443"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "prem1.redknight-web.tk",
+    "Flag" : "sg",
+    "Name" : "Premium Singapore 2",
+    "AlterID" : "64",
+    "Port" : "443"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "vip1.redknight-web.tk",
+    "Flag" : "sg",
+    "Name" : "Vip Singapore 1",
+    "AlterID" : "64",
+    "Port" : "443"
+  },{
+    "Category" : 0,
+    "DomainOrIP" : "vip2.redknight-web.tk",
+    "Flag" : "sg",
+    "Name" : "Vip Singapore 1",
+    "AlterID" : "64",
+    "Port" : "443"
+  },{
+    "Category" : 0,
+    "DomainOrIP" : "vip3.redknight-web.tk",
+    "Flag" : "sg",
+    "Name" : "Vip Singapore 1",
+    "AlterID" : "64",
+    "Port" : "443"
+  },{
+    "Category" : 0,
+    "DomainOrIP" : "vip4.redknight-web.tk",
+    "Flag" : "sg",
+    "Name" : "Vip Singapore 1",
+    "AlterID" : "64",
+    "Port" : "443"
+  },{
+    "Category" : 0,
+    "DomainOrIP" : "vip5.redknight-web.tk",
+    "Flag" : "sg",
+    "Name" : "Vip Singapore 2",
+    "AlterID" : "64",
+    "Port" : "443"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "vip6.redknight-web.tk",
+    "Flag" : "sg",
+    "Name" : "Vip Singapore 2",
+    "AlterID" : "64",
+    "Port" : "443"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "prv1.redknight-web.tk",
+    "Flag" : "us",
+    "Name" : "Private Singapore 1",
+    "AlterID" : "64",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "prv1.redknight-web.tk",
+    "Flag" : "sg",
+    "Name" : "Private Singapore 2",
+    "AlterID" : "64",
+    "Port" : "443"
+  } ],
+  "Payloads" : [ {
+    "Host" : "shop.globe.com.ph",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 1"
+  },{
+    "Host" : "bills.globe.com.ph",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 2"
+  },{
+    "Host" : "freenet.globe.com.ph.cdn.cloudflare.net",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 3"
+  },{
+    "Host" : "www.globe.com.ph.cdn.cloudflare.net",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 4"
+  }, {
+    "Host" : "www.onetrust.com",
+    "Icon" : "smart",
+    "Network" : "smart",
+    "Name" : "STS noload 1"
+  }, {
+    "Host" : "cdn-apac.onetrust.com",
+    "Icon" : "smart",
+    "Network" : "smart",
+    "Name" : "STS noload 2"
+  }, {
+    "Host" : "sts.noload.stan.izone.apn1.ml",
+    "Icon" : "smart",
+    "Network" : "smart",
+    "Name" : "STS noload 3"
+  }, {
+    "Host" : "api.gomo.ph",
+    "Icon" : "gomo",
+    "Network" : "gomo",
+    "Name" : "GOMO noload 1"
+  }, {
+    "Host" : "www.gomo.ph",
+    "Icon" : "gomo",
+    "Network" : "gomo",
+    "Name" : "GOMO noload 2"
+  }, {
+    "Host" : "www.rivalri.com",
+    "Icon" : "gomo",
+    "Network" : "gomo",
+    "Name" : "GOMO noload 3"
+  }, {
+    "Host" : "www.betsouth21.com",
+    "Icon" : "gomo",
+    "Network" : "gomo",
+    "Name" : "GOMO noload 4"
+  }, {
+    "Host" : "www.dito.ph",
+    "Icon" : "dito",
+    "Network" : "dito",
+    "Name" : "DITO noload 1"
+  } ],
+  "Changelogs" : "Whats New?\nBrand New Easy User Interface\Redknight Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
+  "Notice" : "Welcome Redknight V2Ray Reloaded\n\n1. Online Update on menu\n2. Select Location\n3. Select Network/Payload\n4. Enter Username and Password\n5. Click CONNECT",
+  "UpdateUrl": "https://raw.githubusercontent.com/tcfelisildajr69/no-load-for-all/main/update.json",
+  "Version" : 2
+}
