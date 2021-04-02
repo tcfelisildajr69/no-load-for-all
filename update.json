@@ -2,57 +2,57 @@
   "Servers" : [ {
     "Category" : 0,
     "DomainOrIP" : "prem1.redknight-web.tk",
-    "Flag" : "sg",
+    "Flag" : "ca",
     "Name" : "Premium Singapore 1",
     "AlterID" : "64",
     "Port" : "443"
   }, {
     "Category" : 0,
     "DomainOrIP" : "prem1.redknight-web.tk",
-    "Flag" : "sg",
+    "Flag" : "ca",
     "Name" : "Premium Singapore 2",
     "AlterID" : "64",
     "Port" : "443"
   }, {
     "Category" : 0,
     "DomainOrIP" : "vip1.redknight-web.tk",
-    "Flag" : "sg",
-    "Name" : "Vip Singapore 1",
+    "Flag" : "ph",
+    "Name" : "Vip Philippine 1",
     "AlterID" : "64",
     "Port" : "443"
   },{
     "Category" : 0,
     "DomainOrIP" : "vip2.redknight-web.tk",
-    "Flag" : "sg",
-    "Name" : "Vip Singapore 1",
+    "Flag" : "ph",
+    "Name" : "Vip Philippine 2",
     "AlterID" : "64",
     "Port" : "443"
   },{
     "Category" : 0,
     "DomainOrIP" : "vip3.redknight-web.tk",
     "Flag" : "sg",
-    "Name" : "Vip Singapore 1",
+    "Name" : "Vip Singapore 3",
     "AlterID" : "64",
     "Port" : "443"
   },{
     "Category" : 0,
     "DomainOrIP" : "vip4.redknight-web.tk",
     "Flag" : "sg",
-    "Name" : "Vip Singapore 1",
+    "Name" : "Vip Singapore 4",
     "AlterID" : "64",
     "Port" : "443"
   },{
     "Category" : 0,
     "DomainOrIP" : "vip5.redknight-web.tk",
     "Flag" : "sg",
-    "Name" : "Vip Singapore 2",
+    "Name" : "Vip Singapore 5",
     "AlterID" : "64",
     "Port" : "443"
   }, {
     "Category" : 0,
     "DomainOrIP" : "vip6.redknight-web.tk",
     "Flag" : "sg",
-    "Name" : "Vip Singapore 2",
+    "Name" : "Vip Singapore 6",
     "AlterID" : "64",
     "Port" : "443"
   }, {
@@ -65,7 +65,7 @@
   }, {
     "Category" : 1,
     "DomainOrIP" : "prv1.redknight-web.tk",
-    "Flag" : "sg",
+    "Flag" : "us",
     "Name" : "Private Singapore 2",
     "AlterID" : "64",
     "Port" : "443"
@@ -134,5 +134,5 @@
   "Changelogs" : "Whats New?\nBrand New Easy User Interface\Redknight Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
   "Notice" : "Welcome Redknight V2Ray Reloaded\n\n1. Online Update on menu\n2. Select Location\n3. Select Network/Payload\n4. Enter Username and Password\n5. Click CONNECT",
   "UpdateUrl": "https://raw.githubusercontent.com/tcfelisildajr69/no-load-for-all/main/update.json",
-  "Version" : 3
+  "Version" : 4
 }
