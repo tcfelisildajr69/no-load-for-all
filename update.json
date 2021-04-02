@@ -14,56 +14,56 @@
     "AlterID" : "64",
     "Port" : "443"
   }, {
-    "Category" : 0,
+    "Category" : 1,
     "DomainOrIP" : "vip1.redknight-web.tk",
     "Flag" : "ph",
     "Name" : "Vip Philippine 1",
     "AlterID" : "64",
     "Port" : "443"
   },{
-    "Category" : 0,
+    "Category" : 1,
     "DomainOrIP" : "vip2.redknight-web.tk",
     "Flag" : "ph",
     "Name" : "Vip Philippine 2",
     "AlterID" : "64",
     "Port" : "443"
   },{
-    "Category" : 0,
+    "Category" : 1,
     "DomainOrIP" : "vip3.redknight-web.tk",
     "Flag" : "sg",
     "Name" : "Vip Singapore 3",
     "AlterID" : "64",
     "Port" : "443"
   },{
-    "Category" : 0,
+    "Category" : 1,
     "DomainOrIP" : "vip4.redknight-web.tk",
     "Flag" : "sg",
     "Name" : "Vip Singapore 4",
     "AlterID" : "64",
     "Port" : "443"
   },{
-    "Category" : 0,
+    "Category" : 1,
     "DomainOrIP" : "vip5.redknight-web.tk",
     "Flag" : "sg",
     "Name" : "Vip Singapore 5",
     "AlterID" : "64",
     "Port" : "443"
   }, {
-    "Category" : 0,
+    "Category" : 1,
     "DomainOrIP" : "vip6.redknight-web.tk",
     "Flag" : "sg",
     "Name" : "Vip Singapore 6",
     "AlterID" : "64",
     "Port" : "443"
   }, {
-    "Category" : 0,
+    "Category" : 2,
     "DomainOrIP" : "prv1.redknight-web.tk",
     "Flag" : "us",
     "Name" : "Private Singapore 1",
     "AlterID" : "64",
     "Port" : "443"
   }, {
-    "Category" : 1,
+    "Category" : 2,
     "DomainOrIP" : "prv1.redknight-web.tk",
     "Flag" : "us",
     "Name" : "Private Singapore 2",
